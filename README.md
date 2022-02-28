@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-萝莉有三好，身娇腰柔易推倒
+永远是学生
+ <!-- waka-box start -->
+ <!-- waka-box end -->
