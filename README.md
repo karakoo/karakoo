@@ -27,6 +27,11 @@
             <img src="https://wakatime.com/badge/user/570bddef-37a7-4738-b1f7-969ab95c4cc9.svg?style=for-the-badge" align="center"/>
             <p>
 <!-- waka-box start -->
+📊 Weekly development breakdown
+```text
+Still Gathering Statistics...
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
             </p>
         </td>
