@@ -21,29 +21,7 @@
 
 ---
 
-<table>
-    <tr>
-        <td valign="top" width="50%">
-            <img src="https://wakatime.com/badge/user/570bddef-37a7-4738-b1f7-969ab95c4cc9.svg?style=for-the-badge" align="center"/>
-            <p>
 <!-- waka-box start -->
-📊 Weekly development breakdown
-```text
-Other            🕓 53h7m  ████████████▋         60.5%
-Python           🕓 32h21m ███████▋              36.8%
-Text             🕓 52m    ▏                      1.0%
-YAML             🕓 28m                           0.5%
-Jupyter          🕓 16m                           0.3%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
-            </p>
-        </td>
-        <td valign="top" width="50%">
-            <div align="center">
-                <h3>正在提瓦特大陆上旅行</h3>
-            </div>
-            <img src="https://genshin-card.getloli.com/detail/9,10,12,22,27,28,30-33,35,37,38,42,46-48/75104655.png" align="right"/>
-        </td>
-    </tr>
-</table>
+
+<img src="https://genshin-card.getloli.com/detail/9,10,12,22,27,28,30-33,35,37,38,42,46-48/75104655.png" align="right"/>
