@@ -26,11 +26,11 @@
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-Other            🕓 39h    ██████████▉           52.1%
-Python           🕓 33h17m █████████▎            44.5%
-Text             🕓 52m    ▏                      1.2%
-GitIgnore file   🕓 26m                           0.6%
-YAML             🕓 25m                           0.6%
+Python           🕓 14h47m █████████████         62.0%
+Other            🕓 6h34m  █████▊                27.5%
+Markdown         🕓 1h51m  █▋                     7.8%
+GitIgnore file   🕓 19m    ▎                      1.3%
+Text             🕓 9m     ▏                      0.7%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
