@@ -26,11 +26,11 @@
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-JavaScript     🕓 2h4m  ██████████               41.9%
-Python         🕓 1h56m █████████▎               38.9%
-HTML           🕓 27m   ██▏                       9.1%
-Kotlin         🕓 13m   █                         4.6%
-Vue.js         🕓 6m    ▌                         2.3%
+JavaScript     🕓 2h4m ██████████████████▌       74.2%
+HTML           🕓 27m  ████                      16.1%
+Vue.js         🕓 6m   █                          4.1%
+GitIgnore file 🕓 5m   ▊                          3.4%
+JSON           🕓 3m   ▍                          1.9%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
