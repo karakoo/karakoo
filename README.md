@@ -26,7 +26,7 @@
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-Python 🕓 28m ██████████████████████████████████100.0%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
