@@ -26,7 +26,11 @@
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-Still Gathering Statistics...
+C#             🕓 43m ████████████████████▊      79.9%
+Text           🕓 5m  ██▌                        10.0%
+Python         🕓 5m  ██▍                         9.3%
+UnityYaml      🕓 0s  ▏                           0.7%
+GitIgnore file 🕓 0s                              0.1%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
