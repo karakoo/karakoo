@@ -26,11 +26,11 @@
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-Python           🕓 22h27m ██████████████████▉   90.4%
-HTML             🕓 22m    ▎                      1.5%
-C++              🕓 21m    ▎                      1.4%
-C                🕓 21m    ▎                      1.4%
-ObjectiveC       🕓 18m    ▎                      1.2%
+Python           🕓 20h31m ███████████████████▋  93.8%
+HTML             🕓 23m    ▎                      1.8%
+JSON             🕓 15m    ▏                      1.2%
+Text             🕓 13m    ▏                      1.0%
+TOML             🕓 8m     ▏                      0.7%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
