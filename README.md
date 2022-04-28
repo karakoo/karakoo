@@ -26,11 +26,11 @@
 <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-JavaScript     🕓 13h7m ████████████▌            52.1%
-Python         🕓 9h46m █████████▎               38.8%
-TypeScript     🕓 35m   ▌                         2.3%
-Batch          🕓 20m   ▎                         1.4%
-JSON           🕓 19m   ▎                         1.3%
+Python           🕓 13h25m █████████▍            45.0%
+JavaScript       🕓 13h7m  █████████▏            44.0%
+TypeScript       🕓 35m    ▍                      2.0%
+TOML             🕓 26m    ▎                      1.5%
+Markdown         🕓 23m    ▎                      1.3%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
