@@ -5,7 +5,7 @@
 
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
-[![Windows](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/zh-cn/windows/)
+[![Windows](https://img.shields.io/badge/Windows%20-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/zh-cn/windows/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
 [![PyCharm](https://img.shields.io/badge/Pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
 [![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=black&color=black&labelColor=07A8F5)](https://www.jetbrains.com/webstorm/)
