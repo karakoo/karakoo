@@ -20,10 +20,11 @@
 
 [![Code Time](https://wakatime.com/badge/user/570bddef-37a7-4738-b1f7-969ab95c4cc9.svg?style=for-the-badge)](https://wakatime.com/@570bddef-37a7-4738-b1f7-969ab95c4cc9)
 
-
+<!--
 <center>
     <img src="https://genshin-card.getloli.com/detail/9,10,12,22,27,28,30-33,35,37,38,42,46-48/75104655.png"/>
 </center>
+-->
 
 [//]: # ()
 [//]: # (<p>)
