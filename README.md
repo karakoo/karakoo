@@ -1,14 +1,15 @@
 <p>
     <img src="https://count.getloli.com/get/@karakoo.github?theme=rule34" alt="Karako!!!"/>
-    <img width="150" src="https://user-images.githubusercontent.com/70872201/156012148-8873031f-7f16-4fb7-8d91-8cd08a663882.gif" align="right"/>
+    <img width="150" src="https://user-images.githubusercontent.com/70872201/156012148-8873031f-7f16-4fb7-8d91-8cd08a663882.gif" align="right" alt="暗中观察ing"/>
 </p>
-
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 [![Windows](https://img.shields.io/badge/Windows%20-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/zh-cn/windows/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
+
 [![PyCharm](https://img.shields.io/badge/Pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
 [![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=black&color=black&labelColor=07A8F5)](https://www.jetbrains.com/webstorm/)
+[![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-143?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=black&color=black&labelColor=09eafc)](https://www.jetbrains.com/webstorm/)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
@@ -26,7 +27,6 @@
 </center>
 -->
 
-[//]: # ()
 [//]: # (<p>)
 
 [//]: # (    <img src="https://weather-icon.journeyad.repl.co/@chengdu" align="right"/>)
