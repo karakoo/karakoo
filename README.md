@@ -27,6 +27,10 @@
 </center>
 -->
 
+<a href="https://wakatime.com/@Karako">
+    <img src="https://wakatime.com/share/@Karako/c52d5de5-9332-4655-9cda-bf92c0b60bf8.png" alt="Karako's Coding Activity."/>
+</a>
+
 [//]: # (<p>)
 
 [//]: # (    <img src="https://weather-icon.journeyad.repl.co/@chengdu" align="right"/>)
