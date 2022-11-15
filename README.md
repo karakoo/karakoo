@@ -31,4 +31,4 @@
 
 **Recently Played**
 
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=295137841&title=最近在听)](https://netease-recent-profile.vercel.app/?id=295137841)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=295137841&title=最近在听)](https://github.com/karakoo)
